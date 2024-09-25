@@ -11,6 +11,9 @@
     "git.confirmSync": false,
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "html.autoClosingTags": false,
+    "html.autoCreateQuotes": false,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
