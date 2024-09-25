@@ -1,0 +1,33 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "git.autofetch": true,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "workbench.startupEditor": "none",
+    "git.confirmSync": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extension-uninstaller.uninstall": [
+        "GitHub.copilot",
+        "TabNine.tabnine-vscode",
+        "Blackboxapp.blackbox",
+        "DanielSanMedium.dscodegpt",
+        "Codeium.codeium",
+        "genieai.chatgpt-vscode",
+        "aminer.codegeex",
+        "Bito.Bito",
+        "sourcegraph.cody-ai",
+        "timkmecl.codegpt3",
+        "timkmecl.chatgpt"
+    ]
+}

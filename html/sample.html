@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Relative Path Sample</title>
+
+    <!-- Example of putting style in the head (which is gross) -->
+    <style>
+      body {
+        font-family: 'Atkinson Hyperlegible';
+        font-size: 125%;
+      }
+      .blue {
+        color: blue;
+      }
+      .red {
+        color: firebrick;
+      }
+    </style>
+
+  </head>
+
+  <body>
+    <h1>Relative Path Sample</h1>
+
+    <ul>
+      <li>
+        This page is inside the <code>html</code> folder:  <code class="blue">/&lt;repo name&gt;/html/sample.html</code>
+      </li>
+      <li>
+        The <code class="red">index.html</code> page is in the "root" folder: <code class="blue">/&lt;repo name&gt;/index.html</code>
+      </li>
+    </ul>
+    <p>
+      To go back to <code class="red">index.html</code>, we will use <code>&lt;<span class="red">a href</span>=<span class="blue">"../index.html</span>"&gt;</code> in order to go back one folder and then look for the <code>index</code> file.
+    </p>
+    <p>
+      Click <a href="../index.html">right here to go back</a> to index.html.
+    </p>
+
+    <p>
+      To load an image, we have to go back one folder and <em>then</em> into the <code>images</code> folder:  <code>&lt;<span class="red">img src</span>=<span class="blue">"../images/daft_squirrel.png"</span>&gt;</code>
+    </p>
+
+    <img src="../images/daft_squirrel.png">
+
+  </body>
+
+</html>
