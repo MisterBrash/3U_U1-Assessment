@@ -8,6 +8,11 @@
 
 ***We* are going to make that site!**
 
+Table of Contents:
+- [Your Task](#your-task)
+- [Layout](#layout)
+- [Rubric](#rubric)
+
 ## Your Task:
 
 You have four (4) classes to create a website dedicated to your historical figure or invention. The goal is to create a site that outlines the history, complexity, and importance in Computer Science. 
@@ -31,6 +36,23 @@ Aside from the layout above, your site is expected to have:
 - images stored in your actual site. Do not "hot-link" images from other locations (videos are a different story - YouTube *allows* us to embed their videos)
 - no broken links or images. Test your links - make sure they go to the intended destination.
 - clean code. Is your HTML or CSS a complete mess? Have you followed the proper tabbing and organization demonstrated in class? Are you using proper HTML tags and document structure?
+
+### Rubric:
+|Still Working / Next Steps| Program Requirements|Successes|
+|---|---|---|
+||Historical content is clear, accurate, and concise.||
+| | Your site has *at least* the four pages required (see above) with the requested information / media.  | |
+||Your site utilizes images and media in an engaging and meanginful way (not just randomly placed throughout).||
+||All images are stored locally within your repo.||
+||Files and folders are named according to the classroom standards (all lowercase, no spaces, etc)||
+||File and folder *structure* follows the organization standards demonstrated in class.||
+||Code is clean and easy to read or follow. Tabbing and structure of code (both HTML and CSS) follows the demonstrated standards.||
+||Style or theme is consistent throughout all of the pages in the site.||
+||CSS is clean and unobtrusive, not taking away from the content of the site. Furthermore, CSS is *not* the priority of the project.||
+||Student has written content in their own words, not resorting to plagiarism or use of AI.||
+||All sources are provided in MLA or APA format on the `sources.html` page. ||
+||Student went above and beyond the requirements listed in the description of the assessment above.||
+||Student has completed and submitted the assignment (via pushing to GitHub) by the posted due date.||
 
 <br>
 <br>
