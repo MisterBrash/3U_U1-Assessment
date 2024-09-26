@@ -12,6 +12,7 @@ Table of Contents:
 - [Your Task](#your-task)
 - [Layout](#layout)
 - [Rubric](#rubric)
+- [Helpful Resources](#helpful-resources)
 
 ## Your Task:
 
@@ -37,6 +38,19 @@ Aside from the layout above, your site is expected to have:
 - no broken links or images. Test your links - make sure they go to the intended destination.
 - clean code. Is your HTML or CSS a complete mess? Have you followed the proper tabbing and organization demonstrated in class? Are you using proper HTML tags and document structure?
 
+**Notes**: Don't forget to include properly named and organized images. You can also include *other* media or link to other sources of information. YouTube videos can either be *[embedded](https://support.google.com/youtube/answer/171780?hl=en)* or linked-to. Is there a side-story or an interesting tangent you want the reader to go down? Link to it!
+
+It is important to focus on *content* and overall site structure *before* you work on style. **This cannot be stressed enough**.
+
+#### Your site **_must not_** include
+
+- Plagiarism (_stolen_ text or content)
+- Inappropriate language or images/media
+- Images of classmates or people without their permission
+- Private information (this is going to be a public site)
+- Use of AI. We have discussed this in class.
+
+
 ### Rubric:
 |Still Working / Next Steps| Program Requirements|Successes|
 |---|---|---|
@@ -54,6 +68,15 @@ Aside from the layout above, your site is expected to have:
 ||Student went above and beyond the requirements listed in the description of the assessment above.||
 ||Student has completed and submitted the assignment (via pushing to GitHub) by the posted due date.||
 
+### Helpful Resources
+
+<img src="./images/readme/html5_small.png" align="right">
+
+- [Web.dev tutorial](https://web.dev/learn/css/) (see "Box Model" and "CSS Selectors")
+- [CSS Reference of Everything](https://www.w3schools.com/cssref/index.php)
+- [Google it](https://www.google.com/search?q=how+do+I+set+the+background+of+a+div+in+css)!
+
+- 
 <br>
 <br>
 
